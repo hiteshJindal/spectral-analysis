@@ -68,7 +68,7 @@ temporal_csv = '/path/to/temporal_data.csv'
 
 4. Run the code using Python:
 
-```python
+```bash
 python analyze_spectra.py
 ```
 
